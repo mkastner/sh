@@ -1,0 +1,4 @@
+*.swo
+*.swp
+backup-servers*
+test.sh
