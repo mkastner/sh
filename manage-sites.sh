@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# agnostic portable bash
 
 # uncomment to test locally
 # SITES_AVAILABLE="${HOME}/www/sites-available"

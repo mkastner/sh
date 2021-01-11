@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# agnostic portable bash
 
 REPO_BASE_URL="https://raw.githubusercontent.com/mkastner/sh/master/"
 SCRIPTS=(
@@ -6,6 +7,7 @@ SCRIPTS=(
   "manage-sites.sh"
   "mk-vue-files.sh"
   "mk-node-test.sh"
+  "deploy-node.sh"
 )
 
 
